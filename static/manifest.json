@@ -1,6 +1,6 @@
 {
   "name": "techchat",
-  "short_name": "techchat",
+  "short_name": "TC",
   "icons": [
     {
       "src": "/static/img/icons/android-chrome-192x192.png",
